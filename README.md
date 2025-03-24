@@ -15,16 +15,12 @@ This project extracts key details from news articles related to a given company,
 
 **Project Structure**
 📦 news-sentiment-analysis                                                                                                                           
- app.py           # Main script for Streamlit UI                                                                                           
-        
- api.py           # Flask API to serve news                                                                                                 
- utils.py         # Utility functions for scraping, analysis, and TTS                                                                      
-     
- requirements.txt # Dependencies list                                                                                                      
-       
- README.md         # Project documentation                                                                                                 
-     
- data/            # Folder for storing datasets.  
+ app.py           - Main script for Streamlit UI                                                                                                   
+ api.py           - Flask API to serve news                                                                                                 
+ utils.py         - Utility functions for scraping, analysis, and TTS                                                                      
+ requirements.txt - Dependencies list                                                                                                      
+ README.md        - Project documentation                                                                                                 
+ data/            - Folder for storing datasets.  
 
 **Future Enhancements**
 🔹 Improve news scraping logic to support more sources.
