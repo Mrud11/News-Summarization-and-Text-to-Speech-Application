@@ -1,0 +1,26 @@
+#dependencies
+
+# Web Scraping
+beautifulsoup4
+requests
+
+# Data Processing
+pandas
+numpy
+
+# Sentiment Analysis (Using Hugging Face Transformer Model)
+transformers
+torch
+
+# Text-to-Speech (TTS)
+gTTS
+
+# Backend API (Flask)
+flask
+flask_cors
+
+# Frontend UI (Streamlit)
+streamlit
+
+# Deployment Utilities
+huggingface_hub
