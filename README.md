@@ -4,7 +4,7 @@ News Summarization & Sentiment Analysis with Text-to-Speech
 **Project Overview**
 This project extracts key details from news articles related to a given company, performs sentiment analysis, and generates a text-to-speech (TTS) output in Hindi. Users can input a company name, fetch news articles, view sentiment insights, and listen to Hindi audio summaries.
 
-**Features**
+**Features**                                                                                                                                
 ✅ Extracts news articles using BeautifulSoup.                                                                                                   
 ✅ Performs sentiment analysis on articles (positive/negative/neutral)                                                                          
 ✅ Provides comparative sentiment insights.                                                                                                    
@@ -14,12 +14,16 @@ This project extracts key details from news articles related to a given company,
 ✅ Deployed on Hugging Face Spaces.
 
 **Project Structure**
-📦 news-sentiment-analysis
- app.py           # Main script for Streamlit UI  
- api.py           # Flask API to serve news  
- utils.py         # Utility functions for scraping, analysis, and TTS  
- requirements.txt # Dependencies list  
- README.md         # Project documentation  
+📦 news-sentiment-analysis                                                                                                                           
+ app.py           # Main script for Streamlit UI                                                                                           
+        
+ api.py           # Flask API to serve news                                                                                                 
+ utils.py         # Utility functions for scraping, analysis, and TTS                                                                      
+     
+ requirements.txt # Dependencies list                                                                                                      
+       
+ README.md         # Project documentation                                                                                                 
+     
  data/            # Folder for storing datasets.  
 
 **Future Enhancements**
