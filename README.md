@@ -5,12 +5,12 @@ News Summarization & Sentiment Analysis with Text-to-Speech
 This project extracts key details from news articles related to a given company, performs sentiment analysis, and generates a text-to-speech (TTS) output in Hindi. Users can input a company name, fetch news articles, view sentiment insights, and listen to Hindi audio summaries.
 
 **Features**
-✅ Extracts news articles using BeautifulSoup.
-✅ Performs sentiment analysis on articles (positive/negative/neutral)
-✅ Provides comparative sentiment insights.
-✅ Converts summarized text to Hindi audio (TTS)
-✅ Interactive Streamlit UI for user-friendly approach.
-✅ Backend API using Flask.
+✅ Extracts news articles using BeautifulSoup.                                                                                                   
+✅ Performs sentiment analysis on articles (positive/negative/neutral)                                                                          
+✅ Provides comparative sentiment insights.                                                                                                    
+✅ Converts summarized text to Hindi audio (TTS)                                                                                             
+✅ Interactive Streamlit UI for user-friendly approach.                                                                                     
+✅ Backend API using Flask.                                                                                                                    
 ✅ Deployed on Hugging Face Spaces.
 
 **Project Structure**
