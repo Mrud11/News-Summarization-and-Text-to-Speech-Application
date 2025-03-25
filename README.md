@@ -22,9 +22,9 @@ This project extracts key details from news articles related to a given company,
  README.md        - Project documentation                                                                                                 
  data/            - Folder for storing datasets.  
 
-**Future Enhancements**
-🔹 Improve news scraping logic to support more sources.
-🔹 Use a custom Hindi TTS model instead of gTTS.
+**Future Enhancements**                                                                                                                          
+🔹 Improve news scraping logic to support more sources.                                                                                               
+🔹 Use a custom Hindi TTS model instead of gTTS.                                                                                               
 🔹 Deploy using Docker for better scalability.
 
 **License**
