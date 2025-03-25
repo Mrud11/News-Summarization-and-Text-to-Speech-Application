@@ -9,7 +9,7 @@ CORS(app)  # Enable CORS for frontend-backend communication
 
 # Function to fetch news articles from Google News RSS
 def fetch_news(company):
-    url = f"tata_news_sentiment.csv"
+    url = f"/content/tata_news_sentiment.csv"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "xml")
     articles = soup.find_all("item")
